@@ -22,4 +22,4 @@ else{
 	$_SESSION['message'] = 'Erreur : Formulaire incomplet';
 	header('Location: register.php');
 }
-	
+echo 'salut ';
